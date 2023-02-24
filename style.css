@@ -1,0 +1,32 @@
+
+.masthead{
+    background-image: url('./banner/banner.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.sam-btn{
+    background-color:rgb(160, 127, 88);
+    border-radius: 5px;
+    border: 2px solid rgb(160, 127, 88);
+    color: aliceblue;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px black;
+    }
+    .des-text{
+        color: #040303;
+    }
+    .des-texts{
+        color: #ffffff;
+        text-align: left;
+    }
+    
+    .bg-color{
+        background-color: rgb(202, 197, 197) ;
+    }
+    .btn-a{
+        text-decoration: none;
+        border-radius: 8px;
+    }
